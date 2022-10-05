@@ -5,6 +5,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/Images/you.jpg);
+    background-image: url(you.jpg);
     overflow: hidden;
 }
