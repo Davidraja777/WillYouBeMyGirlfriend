@@ -6,5 +6,6 @@ body{
     align-items: center;
     justify-content: center;
     background-image: url(you.jpg);
+    background-repeat:no-repeat;
     overflow: hidden;
 }
