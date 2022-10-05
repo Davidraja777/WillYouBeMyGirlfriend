@@ -1,11 +1,7 @@
-body{
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-image: url(you.jpg);
-    background-repeat:no-repeat;
-    overflow: hidden;
+html { 
+  background: url(you.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
